@@ -1,0 +1,35 @@
+._table{
+   background-color: aqua;
+   border: none;
+   border-spacing: 0;
+   width: 700px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   border-radius: 10px;
+   margin:auto;
+}
+
+
+
+._td_class{
+ padding: 20px 20px 20px 30px;
+   color: white;
+   font-size: 30px;
+
+}
+._tr_class{
+ color: white;
+ font-size: 30px;
+
+    
+  
+  }
+
+#_tr{
+    border-radius: 10px ;
+    background-color: #24c793;
+    border-spacing: 0;
+ 
+}
+#_tr_3{
+    color: #24c793;
+}
